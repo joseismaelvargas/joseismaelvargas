@@ -11,9 +11,9 @@ Soy un desarrollador web con un gran interés en crear aplicaciones eficientes y
 🙂 gestionador de tiempo
 
 -Competente 
- JAVASCRIPT
- REACT JS
- HML
- CSS
- BOOSTRAP 5
- TALWIND.CSS
+ .JAVASCRIPT
+ .REACT JS
+ .HML
+ .CSS
+ .BOOSTRAP 5
+ .TALWIND.CSS

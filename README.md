@@ -5,14 +5,15 @@ Acerca de mí
 Soy un desarrollador web con un gran interés en crear aplicaciones eficientes y fáciles de usar. Actualmente, tengo 55 repositorios públicos en GitHub, donde muestro mis proyectos y habilidades en el desarrollo Full Stack.
 
 Habilidades
-👨🏽‍💻 Trabajo en equipo
-🤓 Autodidacta
-🙂 Gestión del tiempo
+#👨🏽‍💻 Trabajo en equipo
+#🤓 Autodidacta
+#🙂 Gestión del tiempo
+
 
 Tecnologías que domino
-JavaScript
-React.js
-HTML
-CSS
-Bootstrap 5
-Tailwind CSS
+#JavaScript
+#React.js
+#HTML
+#CSS
+#Bootstrap 5
+#Tailwind CSS

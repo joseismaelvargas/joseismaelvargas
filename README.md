@@ -19,6 +19,7 @@ Actualmente, tengo **55 repositorios públicos** en GitHub, donde muestro mis pr
 <p >
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" width="80px"/>
+    <img src="https://camo.githubusercontent.com/9fe2e7edf533287df14c1fe5025f1bdefb0cd4d835c4f9be09bb4b7fdf9a6209/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="node.js" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="80px"/>

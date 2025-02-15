@@ -13,7 +13,7 @@ Actualmente, tengo **55 repositorios públicos** en GitHub, donde muestro mis pr
 
 ##🚀 Tecnologías 
 
-<p align="center">
+<p >
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" width="80px"/>

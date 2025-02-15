@@ -4,12 +4,15 @@ Me encanta crear aplicaciones que generen un impacto positivo y mejoren la exper
 
 ## 📌 Acerca de mí  
 Soy un desarrollador web con un gran interés en crear aplicaciones eficientes y fáciles de usar.  
-Actualmente, tengo **55 repositorios públicos** en GitHub, donde muestro mis proyectos y habilidades en el desarrollo **Full Stack**.  
+Actualmente, tengo **55 repositorios públicos** en GitHub, donde muestro mis proyectos y habilidades en el desarrollo **Full Stack**.
+❓ Pregúntame sobre cualquier cosa relacionada con el desarollo web
 
 ## 🛠️ Habilidades  
 - 👨🏽‍💻 **Trabajo en equipo**  
 - 🤓 **Autodidacta**  
-- 🙂 **Gestión del tiempo**  
+- 🙂 **Gestión del tiempo**
+- 😄** me gusta mantener mi turno de noche activado las 24 horas del día, los 7 días de la semana**
+- 🧐** Actualmente estoy aprendiendo TypeScript y Talwind css**
 
 ##🚀 Tecnologías 
 
@@ -20,6 +23,12 @@ Actualmente, tengo **55 repositorios públicos** en GitHub, donde muestro mis pr
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="80px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="80px"/>
+</p>
+## 😁 Familiarisado con :
+<p>
+  <img src="https://camo.githubusercontent.com/405525dbbd6a7d294daac1e8d7854f67b776d254ce3156010739a49c58983d50/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" alt="TypeScript" width="80px"/>
+   <img src="https://camo.githubusercontent.com/157855944afc6e6656810c9e0002ab5b4a82b66b0e404aa2a5a3af7f7a0b4542/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" alt="Python" width="80px"/>
+     <img src="https://tse1.mm.bing.net/th?id=OIP.3Slw0SehxPBEnPmaoZ3i-wHaEc&pid=Api&P=0&h=180" alt="Python" width="80px"/>
 </p>
 
 📫 **Contacto:**  
